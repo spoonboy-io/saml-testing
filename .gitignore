@@ -1,4 +1,5 @@
 .DS_Store
 /.idea
-/certs
-/metadata
+/certs/*.key
+/certs/*.cert
+/metadata/*.xml
